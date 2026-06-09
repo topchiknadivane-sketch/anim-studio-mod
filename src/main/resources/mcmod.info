@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "animstudio",
+    "name": "Anim Studio",
+    "description": "Animation Studio mod — animate mobs, duplicate yourself, cinematic mode and more!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["AnimStudio"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
